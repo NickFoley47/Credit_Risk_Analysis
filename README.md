@@ -67,3 +67,7 @@ Easy Ensemble AdaBoost Classifier:
 -	Balanced Accuracy: 93%
 -	Precision: High Risk .07, Low Risk 1.00
 -	Recall: High Risk .91, Low Risk .95
+
+
+## Summary: 
+The model I would recommend would be the Easy Ensemble model. The accuracy is 93% and the recall/precision have a good balance. For credit risk, we want an realistic accuracy and we want recall/precision to have a balance between them  to allow the best possibility to predict credit risk. 
