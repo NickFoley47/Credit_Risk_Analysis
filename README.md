@@ -19,9 +19,9 @@ Naive Random Oversampling:
 
 SMOTE Oversampling:
 
-![smote-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/smote-acc.PNG)
+![smote-acc](https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/smote-acc.PNG)
 
-![smote-report]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/smote-report.PNG)
+![smote-report](https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/smote-report.PNG)
 
 -	Balanced Accuracy: 66%
 -	Precision: High Risk .01, Low Risk 1.00
@@ -39,6 +39,7 @@ Undersampling CluseterCentroid:
 
 
 SMOTEENN Combination-Over and Under Sampling:
+
 ![ Over-under-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/Over-under-acc.PNG)
 
 ![ Over-under-report](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/Over-under-report.PNG)
@@ -48,6 +49,7 @@ SMOTEENN Combination-Over and Under Sampling:
 -	Recall: High Risk .72, Low Risk .57
 
 Balanced Random Forest Classifier:
+
 ![ bala-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/bala-acc.PNG)
 
 ![ bala-report](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/bala-report.PNG)
@@ -57,6 +59,7 @@ Balanced Random Forest Classifier:
 -	Recall: High Risk .77, Low Risk .88
 
 Easy Ensemble AdaBoost Classifier: 
+
 ![ easy-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/easy-acc.PNG)
 
 ![ easy-report](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/easy-report.PNG)
