@@ -3,9 +3,9 @@
 ## Overview of the analysis
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, we employed different techniques to train and evaluate models with unbalanced classes.
 ## Resources
--Data:  LoanStats_2019Q1.csv
+- Data:  LoanStats_2019Q1.csv
 
--Software: Python, Anaconda, Jupyter Notebook 
+- Software: Python, Anaconda, Jupyter Notebook 
 ## Results 
 Naive Random Oversampling:
 
