@@ -9,9 +9,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ## Results 
 Naive Random Oversampling:
 
-![naive-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/naive-acc.PNG)
+![naive-acc](https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/naive-acc.PNG)
 
-![naive-report]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/naive-report.PNG)
+![naive-report](https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/naive-report.PNG)
 
 -	Balanced Accuracy: 65%
 -	Precision: High Risk .01, Low Risk 1.00
@@ -31,7 +31,7 @@ Undersampling CluseterCentroid:
 
 ![ cluster-under-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/cluster-under-acc.PNG)
 
-![ cluster-under-acc](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/cluster-under-report.PNG)
+![ cluster-under-acc](https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/cluster-under-report.PNG)
 
 -	Balanced Accuracy: 66%
 -	Precision: High Risk .01, Low Risk 1.00
@@ -42,7 +42,7 @@ SMOTEENN Combination-Over and Under Sampling:
 
 ![ Over-under-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/Over-under-acc.PNG)
 
-![ Over-under-report](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/Over-under-report.PNG)
+![ Over-under-report]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/Over-under-report.PNG)
 
 -	Balanced Accuracy: 54%
 -	Precision: High Risk .01, Low Risk 1.00
@@ -52,7 +52,7 @@ Balanced Random Forest Classifier:
 
 ![ bala-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/bala-acc.PNG)
 
-![ bala-report](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/bala-report.PNG)
+![ bala-report]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/bala-report.PNG)
 
 -	Balanced Accuracy: 83%
 -	Precision: High Risk .03, Low Risk 1.00
@@ -62,7 +62,7 @@ Easy Ensemble AdaBoost Classifier:
 
 ![ easy-acc]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/easy-acc.PNG)
 
-![ easy-report](]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/easy-report.PNG)
+![ easy-report]( https://github.com/NickFoley47/Credit_Risk_Analysis/blob/main/pics/easy-report.PNG)
 
 -	Balanced Accuracy: 93%
 -	Precision: High Risk .07, Low Risk 1.00
